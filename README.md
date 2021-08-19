@@ -1,4 +1,4 @@
-## Salvee! Eu sou o Bin
+## Salvee! Eu sou o Bin 
  <div>
   <a href="https://github.com/zBiin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zBiin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -11,9 +11,6 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/illustrator/illustrator-line.svg">
-  <img align="right" alt="gif-bin" width="150"
-       src="https://im6.ezgif.com/tmp/ezgif-6-b67e74c36bb4.gif">
- 
 </div>
   
   ## 
