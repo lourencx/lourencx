@@ -1,4 +1,20 @@
-## Salvee! Eu sou o Bin 
+<img src = "https://user-images.githubusercontent.com/48793555/130126220-068d401c-6a4b-40c8-ab0a-a2cc6a7ba42d.png" width = "250px" align = "right">
+
+### Salvee! Eu sou o Bin 👨‍💻
+
+🔭 **Trabalhando como:** Designer
+
+:man_student: **Estudando:** Ciência da Computação em [UNIP](https://www.unip.br/)
+
+🌱 **Aprendendo:** React
+
+:school_satchel: **Principais Ferramentas:** Visual Studio Code e GitHub
+
+:raising_hand_man: **Redes Sociais:** [Instagram](https://www.instagram.com/dixx_biin/) e [Twitter](https://twitter.com/zBiin_)
+
+
+---
+
  <div>
   <a href="https://github.com/zBiin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zBiin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -13,12 +29,4 @@
   <img align="center" alt="Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/illustrator/illustrator-line.svg">
 </div>
   
-  ## 
-
-<div> 
-  <a href="https://instagram.com/dixx_biin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/gustavo-lourenço-21739a17b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5511982188137" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  
- 
-</div>
+ ---
