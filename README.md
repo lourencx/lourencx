@@ -2,11 +2,11 @@
 
 ### Salvee! Eu sou o Bin 👨‍💻
 
-🔭 **Trabalhando como:** Designer
+🔭 **Trabalhando como:** App Developer
 
 :man_student: **Estudando:** Ciência da Computação em [UNIP](https://www.unip.br/)
 
-🌱 **Aprendendo:** React
+🌱 **Aprendendo:** Flutter
 
 :school_satchel: **Principais Ferramentas:** Visual Studio Code e GitHub
 
