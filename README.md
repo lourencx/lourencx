@@ -1,14 +1,15 @@
 <img src = "https://user-images.githubusercontent.com/48793555/130126220-068d401c-6a4b-40c8-ab0a-a2cc6a7ba42d.png" width = "250px" align = "right">
 
-### Salvee! Eu sou o Bin 👨‍💻
+### Olá! Me chamo Gustavo! 👨‍💻
 
 :man_student: **Estudando:** Ciência da Computação em [UNIP](https://www.unip.br/)
 
-🌱 **Aprendendo:** ReactJS
+🌱 **Aprendendo:** ADVPL(TL++)
+
 
 :school_satchel: **Principais Ferramentas:** Visual Studio Code e GitHub
 
-:raising_hand_man: **Redes Sociais:** [Instagram](https://www.instagram.com/biin.xd/) e [Twitter](https://twitter.com/zBiin_)
+:raising_hand_man: **Redes Sociais:** [Instagram](https://www.instagram.com/biin.xd/), [Twitter](https://twitter.com/zBiin_) e [Linkedin](https://www.linkedin.com/in/gustavo-louren%C3%A7o-21739a17b/)
 
 
 ---
