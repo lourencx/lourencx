@@ -4,7 +4,7 @@
 
 :man_student: **Estudando:** Ciência da Computação em [UNIP](https://www.unip.br/)
 
-🌱 **Aprendendo:** ADVPL(TL++)
+🌱 **Aprendendo:** JavaScript / Node.js
 
 
 :school_satchel: **Principais Ferramentas:** Visual Studio Code e GitHub
